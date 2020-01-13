@@ -5,6 +5,6 @@ Analysis on Kickstarter campaign data
 ![Category outcomes](https://github.com/munjih/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes%20chart.png)
 
 - In Great Britain, 604 Kickstarter campaigns were launched. Among the subcategories, "Plays" had the most number of campaigns and 238 campaigns out of the 314 were successful. 26 musical campaigns were launched and 10 were successful while 11 failed and 5 were canceled.
-!{Subcategory outcomes GB]
+!{Subcategory outcomes GB](https://github.com/munjih/kickstarter-analysis/blob/master/Musical%20projects%20in%20GB.png)
 
 - For the "Theater" categories, outcomes were more successful when the campaign was launched in the late spring to mid-summer (May-July).
