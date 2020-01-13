@@ -10,3 +10,4 @@ Analysis on Kickstarter campaign data
 ![Subcategory outcomes GB](https://github.com/munjih/kickstarter-analysis/blob/master/Subcategory%20outcomes_GB.png)
 
 - For the "Theater" category, outcomes were more successful when the campaign was launched in the late spring to mid-summer (May-July).
+![Launch date analysis](https://github.com/munjih/kickstarter-analysis/blob/master/Outcomes%20based%20on%20launch%20date.png)
