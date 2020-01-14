@@ -11,9 +11,11 @@ Analysis on Kickstarter campaign data
 
 - Campaign outcomes were more successful when the campaign was launched in the late spring to mid-summer (May-July).
 ![Launch date analysis](https://github.com/munjih/kickstarter-analysis/blob/master/Outcomes%20based%20on%20launch%20date.png)
+
 The trend was similar for the theater category campaigns as well.
 ![Launch date category analysis](https://github.com/munjih/kickstarter-analysis/blob/master/Subcategory%20outcomes%20based%20on%20launch%20date.png)
 
-- Comparison of successful and failed campaigns in US, we could deduce that failed campaigns tend to have higher goals than the successful ones. 
+- Comparison of successful and failed campaigns in US, we could deduce that failed campaigns tend to have higher goals than the successful ones. Also, we could tell from the distribution of goals that the median goal amount is rather closer to the lower quartile of the interquartile range. 
 
-*Advise for Louise*
+**Advise for Louise**
+Theater is a pretty popular category among the Kickstarter campaigns.
