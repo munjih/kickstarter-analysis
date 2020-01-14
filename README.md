@@ -27,6 +27,6 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ![Outcomes based on goal](https://github.com/munjih/kickstarter-analysis/blob/master/Outcomes%20based%20on%20Goal.png)
 
 - Second, we analyzed the outcome based on the launching date. As shown, the outcome shows a tendency of being more successful when launched between May and July compared to the winter months. 
-![Outcomes based on launching date]
+![Outcomes based on launching date](https://github.com/munjih/kickstarter-analysis/blob/master/Outcomes%20based%20on%20launch%20date.png)
 
 - The two analysis performed gives us some suggestion that it is better to keep the goal below $25,000 and launch during late spring to mid-summer for an ultimate success. 
