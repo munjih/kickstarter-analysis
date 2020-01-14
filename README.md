@@ -24,7 +24,7 @@ Theater is a pretty popular category among the Kickstarter campaigns both in the
 Louise’s play Fever came close to its fundraising goal in a short amount of time and we would like to know how this correlates with other Kickstarter campaigns. 
 
 - First, we wanted analyze if the success rate correlates with the goal amount when the campaign was launched. Overall, the percentage of successful campaigns were higher when the goal amount was on the lower side (<$25,000), however, the outcome does not completely correlate with the goal amount as campaigns with higher goals ($35,000-$45000) also showed a pretty high success rate. 
-![Outcomes based on goal]
+![Outcomes based on goal](https://github.com/munjih/kickstarter-analysis/blob/master/Outcomes%20based%20on%20Goal.png)
 
 - Second, we analyzed the outcome based on the launching date. As shown, the outcome shows a tendency of being more successful when launched between May and July compared to the winter months. 
 ![Outcomes based on launching date]
