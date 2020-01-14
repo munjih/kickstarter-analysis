@@ -18,4 +18,15 @@ The trend was similar for the theater category campaigns as well.
 - Comparison of successful and failed campaigns in US, we could deduce that failed campaigns tend to have higher goals than the successful ones. Also, we could tell from the distribution of goals that the median goal amount is rather closer to the lower quartile of the interquartile range. 
 
 **Advise for Louise**
-Theater is a pretty popular category among the Kickstarter campaigns.
+Theater is a pretty popular category among the Kickstarter campaigns both in the US and Great Britain. The campaigns launched late spring to mid-summer seems to be more successful compared to campaigns launched during the winter months. It seems better to keep the goal lower for a more successful outcome. 
+
+### Challenge
+Louise’s play Fever came close to its fundraising goal in a short amount of time and we would like to know how this correlates with other Kickstarter campaigns. 
+
+- First, we wanted analyze if the success rate correlates with the goal amount when the campaign was launched. Overall, the percentage of successful campaigns were higher when the goal amount was on the lower side (<$25,000), however, the outcome does not completely correlate with the goal amount as campaigns with higher goals ($35,000-$45000) also showed a pretty high success rate. 
+![Outcomes based on goal]
+
+- Second, we analyzed the outcome based on the launching date. As shown, the outcome shows a tendency of being more successful when launched between May and July compared to the winter months. 
+![Outcomes based on launching date]
+
+- The two analysis performed gives us some suggestion that it is better to keep the goal below $25,000 and launch during late spring to mid-summer for an ultimate success. 
