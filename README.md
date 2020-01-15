@@ -23,10 +23,12 @@ Theater is a pretty popular category among the Kickstarter campaigns both in the
 ### Challenge
 Louise’s play Fever came close to its fundraising goal in a short amount of time and we would like to know how this correlates with other Kickstarter campaigns. 
 
-- First, we wanted analyze if the success rate correlates with the goal amount when the campaign was launched. Overall, the percentage of successful campaigns were higher when the goal amount was on the lower side (<$25,000), however, the outcome does not completely correlate with the goal amount as campaigns with higher goals ($35,000-$45000) also showed a pretty high success rate. 
+- First, we wanted to analyze if the success rate correlates with the goal amount when the campaigns for the "Plays" subcategory was launched. Overall, the percentage of successful campaigns were higher when the goal amount was on the lower side (<$25,000), however, the outcome does not completely correlate with the goal amount as campaigns with higher goals ($35,000-$45000) also showed a pretty high success rate. 
 ![Outcomes based on goal](https://github.com/munjih/kickstarter-analysis/blob/master/Outcomes%20based%20on%20Goal.png)
 
-- Second, we analyzed the outcome based on the launching date. As shown, the outcome shows a tendency of being more successful when launched between May and July compared to the winter months. 
+- Second, we analyzed the outcome based on the launching date for the "Theater" category. As shown, the outcome shows a tendency of being more successful when launched between May and July compared to the winter months. 
 ![Outcomes based on launching date](https://github.com/munjih/kickstarter-analysis/blob/master/Outcomes%20based%20on%20launch%20date.png)
 
-- The two analysis performed gives us some suggestion that it is better to keep the goal below $25,000 and launch during late spring to mid-summer for an ultimate success. 
+- The two analyses performed gives us some suggestion that for a play, it is better to keep the goal below $25,000 and launch the campaign during late spring to mid-summer for an ultimate success. 
+
+- The outcomes based on launching date gives us an idea if actual launching date correlates with its outcomes. We can compare Louise's launching date to this chart and find the correlation. The first analysis involving the goal amount does not show significant correlation with the outcomes. Rather, comparing the number of backers, average pledge amount should give more information if Louise's campaign and other ones behaved similarly. Also, analyzing the duration of campaign vs. outcomes might also provide some useful information in finding the correlation of Louise's campaign to the others. 
